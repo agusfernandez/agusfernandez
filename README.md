@@ -5,8 +5,6 @@
 <p><b>UX/UI Designer & Frontend Developer</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0052FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-agustina-fernandez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2025--2026-00C6FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://github.com/agusfernandez)
-[![UBA](https://img.shields.io/badge/UBA-Ingeniería%20%2F%20FADU-0A192F?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/agusfernandez)
 
 </div>
 
