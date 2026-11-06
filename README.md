@@ -1,49 +1,34 @@
 <div align="center">
 
-# Hola, soy Maria Agustina 👋
+<!-- ENCABEZADO -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:007AFF,100:8DC2FB&text=Maria%20Agustina%20Fernandez&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Graphic%20%26%20Product%20Designer%20%7C%20Web%20%26%20Frontend%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Maria Agustina Fernandez"/>
 
-<p><b>UX/UI Designer & Frontend Developer</b></p>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0052FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-agustina-fernandez)
+<!-- ESTADÍSTICAS -->
+<a href="https://github.com/agusfernandez">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusfernandez&show_icons=true&hide_border=true&border_radius=24&bg_color=0A0A0C&title_color=8DC2FB&text_color=FFFFFF&icon_color=007AFF&ring_color=007AFF" alt="Estadísticas de GitHub"/>
+</a>
 
-</div>
+<br/><br/>
 
----
+<!-- TECH STACK -->
+<h3>Tech Stack &amp; Tools</h3>
 
-### ⚡ Sobre mí
+<img src="https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=8DC2FB"/>
+<img src="https://img.shields.io/badge/Adobe%20CC-0B1220?style=for-the-badge&logo=adobecreativecloud&logoColor=8DC2FB"/>
+<img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=8DC2FB"/>
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=8DC2FB"/>
+<img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=8DC2FB"/>
+<img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=8DC2FB"/>
+<img src="https://img.shields.io/badge/Jira-0B1220?style=for-the-badge&logo=jira&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/Trello-0B1220?style=for-the-badge&logo=trello&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/Slack-0B1220?style=for-the-badge&logo=slack&logoColor=007AFF"/>
 
-Diseñadora Gráfica egresada de la **FADU - UBA** y estudiante de **Ingeniería en Informática** en la misma universidad. Mi perfil une la sensibilidad visual, la accesibilidad y el pensamiento estratégico del diseño UX/UI con la lógica y arquitectura del desarrollo frontend.
+<br/><br/>
 
----
+<!-- CONTACTO -->
+<a href="https://www.linkedin.com/in/maria-agustina-fernandez/"><img src="https://img.shields.io/badge/LinkedIn-007AFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:agustina.fer91@gmail.com"><img src="https://img.shields.io/badge/Email-8DC2FB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### 💻 Stack Tecnológico
-
-| Categoría | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Diseño & Prototipado** | `Figma` `Adobe Creative Suite` `Design Systems` `WCAG` |
-| **Frontend & Web** | `HTML5` `CSS3` `Sass` `JavaScript` `Git` |
-| **En aprendizaje** | `React` |
-| **Colaboración & QA** | `Jira` `Trello` `Slack` `QA Manual & Grey Box` `n8n / IA (Estudio)` |
-
----
-
-### 🚀 Proyectos Destacados
-
-*   **Proyecto CrunCh** — App móvil de precios e inflación. Arquitectura visual, sistema de diseño en Figma y pruebas de usabilidad enfocadas en la búsqueda por mapa.
-*   **Sistema de Gestión de Turnos Médicos** — Flujos de usuario, diseño de componentes, estados de excepción y documentación de handoff para desarrollo.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusfernandez&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=060a12&title_color=00c6ff&text_color=cbd5e1&icon_color=0052FF" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusfernandez&layout=compact&theme=radical&hide_border=true&bg_color=060a12&title_color=00c6ff&text_color=cbd5e1" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>✨ Inspirado en diseño moderno · Construido con Markdown y Estética Azul Profesional</sub>
-</div>
+</div> 
