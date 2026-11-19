@@ -25,12 +25,6 @@ Diseñadora Gráfica egresada de la **FADU - UBA** y estudiante de **Ingeniería
 | **En aprendizaje** | `React` |
 | **Colaboración & QA** | `Jira` `Trello` `Slack` `QA Manual & Grey Box` `n8n / IA (Estudio)` |
 
----
-
-### 🚀 Proyectos Destacados
-
-*   **Proyecto CrunCh** — App móvil de precios e inflación. Arquitectura visual, sistema de diseño en Figma y pruebas de usabilidad enfocadas en la búsqueda por mapa.
-*   **Sistema de Gestión de Turnos Médicos** — Flujos de usuario, diseño de componentes, estados de excepción y documentación de handoff para desarrollo.
 
 ---
 
